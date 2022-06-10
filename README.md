@@ -1,4 +1,12 @@
-# meteo-geolocalisation
+# meteo-geolocalisation VUJS / CLI
+
+Sujet:
+
+L'objectif de cet atelier est de créer une simple application permettant de consulter la météo sur le 5 prochains jours par tranche de 3h. Pour cela, vous pourrez vous aider de cette documentation https://openweathermap.org/forecast5  de l'API Web Open Weather Map.
+
+Bonus:
+
+Ajout de la geolocalisation.
 
 ## Project setup
 ```
